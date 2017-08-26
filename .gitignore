@@ -45,3 +45,14 @@ lib/warn-on-use.h
 mkinstalldirs
 
 *.swp
+libtool
+ltmain.sh
+algorithm/.dirstamp
+ccan/opt/.dirstamp
+m4/libtool.m4
+m4/ltoptions.m4
+m4/ltsugar.m4
+m4/ltversion.m4
+m4/lt~obsolete.m4
+ocl/.dirstamp
+sph/libsph.a
